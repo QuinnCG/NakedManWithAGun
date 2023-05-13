@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d820323fa7a58db498301da1e1ffb908, type: 3}
+  m_Name: PaintGunReload
+  m_EditorClassIdentifier: 
+  Clips:
+  - Clip: {fileID: 8300000, guid: 758d8ee0d7449a8409a9fd95c8dcc7ac, type: 3}
+    Weight: 1
+  Volume: {x: 10, y: 10}
+  Pitch: {x: 1.2, y: 1.3}

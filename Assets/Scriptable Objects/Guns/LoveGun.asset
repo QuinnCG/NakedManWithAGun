@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f37b2a977d1eb7249ae28a879581f45b, type: 3}
+  m_Name: LoveGun
+  m_EditorClassIdentifier: 
+  Name: Love Gun
+  NameColor: {r: 0.77647066, g: 0.31764707, b: 0.5921569, a: 1}
+  FireRate: 0.45
+  ReloadDuration: 1.5
+  IsAutomatic: 1
+  MagazineSize: 10
+  ReserveAmmo: 20
+  Spread: 90
+  Count: 5
+  Sprite: {fileID: 21300000, guid: 2b1bfeb8ad8d44341954ea55437b737d, type: 3}
+  DroppedSprite: {fileID: 21300000, guid: ce4f10e83fbdaf5469c9e45de84676f5, type: 3}
+  ReloadSound: {fileID: 11400000, guid: 3f1aa4fa8f1319b48bdd1d010cd6b2e8, type: 2}
+  ScreenShakeAmplitude: 0
+  KickbackOffset: 0.1
+  SpawnOffset: {x: 0.1, y: 0}
+  Projectile: {fileID: 11400000, guid: 55b032bf2dffde24d82901c6545a16e4, type: 2}

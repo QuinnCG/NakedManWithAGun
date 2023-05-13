@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d820323fa7a58db498301da1e1ffb908, type: 3}
+  m_Name: LaserBeamerFire
+  m_EditorClassIdentifier: 
+  Clips:
+  - Clip: {fileID: 8300000, guid: 37719634c06bbba41bfa712fee5a307a, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: ae292d8c50798674eb69355ff7052084, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: 51e038bec70b4fc469c7c21df62f2da0, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: b478f5e9663505d4bab6a8a54f02bc3c, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: 8adc880951b4b7d41acb93e232d3c91e, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: 25b799684e8758044a6f826a5c0e40ca, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: ed1ed9df5dbe78b449a507385d0ebc55, type: 3}
+    Weight: 1
+  Volume: {x: 0.7, y: 0.8}
+  Pitch: {x: 0.9, y: 1.1}

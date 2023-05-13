@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d820323fa7a58db498301da1e1ffb908, type: 3}
+  m_Name: PaintballHit
+  m_EditorClassIdentifier: 
+  Clips:
+  - Clip: {fileID: 8300000, guid: 5ac59d3a4bccbec4f98495baaa67e524, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: 9e3ce15a584e7da4aaae0a1f2c062715, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: 7cf638bc4e213704b875e92006093d9a, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: 5fdeec1401773a54bbe6a1f173c67ecc, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: 3339633801b51fa4198fa47e5c8e025d, type: 3}
+    Weight: 1
+  Volume: {x: 0.5, y: 0.7}
+  Pitch: {x: 0.9, y: 1.1}

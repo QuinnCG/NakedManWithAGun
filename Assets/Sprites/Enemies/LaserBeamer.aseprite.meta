@@ -1,0 +1,925 @@
+fileFormatVersion: 2
+guid: 3336125df6cc967439203b414a657836
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 16
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 9
+    customPivotPosition: {x: 0.75, y: 0.25}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 9
+    customPivotPosition: {x: 0.75, y: 0.25}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638188952567710469
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: LaserBeamer_Frame_0
+    originalName: 
+    pivot: {x: 0.5555556, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 71
+      width: 9
+      height: 16
+    spriteID: 4523b95064ee635419c48b88a4d1f5f9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 71}
+  - name: LaserBeamer_Frame_1
+    originalName: 
+    pivot: {x: 0.5555556, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 23
+      width: 9
+      height: 15
+    spriteID: 058211927e0c17243a92494e7afc75c9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 23}
+  - name: LaserBeamer_Frame_2
+    originalName: 
+    pivot: {x: 0.6666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 117
+      y: 19
+      width: 3
+      height: 2
+    spriteID: 27ba3b2f77e1f8e4a9182e2841be7ae8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 117, y: 19}
+  - name: LaserBeamer_Frame_3
+    originalName: 
+    pivot: {x: 0.6666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 58
+      y: 112
+      width: 3
+      height: 6
+    spriteID: f734967e5986cec4ea811d69de89244c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 58, y: 112}
+  - name: LaserBeamer_Frame_4
+    originalName: 
+    pivot: {x: 0.6666667, y: -0.8571429}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 112
+      width: 3
+      height: 7
+    spriteID: 3f6df07d02a493b4a89409dc9e66a80d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 112}
+  - name: LaserBeamer_Frame_5
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.71428573}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 4
+      width: 7
+      height: 7
+    spriteID: 3a206693060a3594e994f80d3dc2b2bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 4}
+  - name: LaserBeamer_Frame_6
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.36363637}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 70
+      width: 11
+      height: 11
+    spriteID: 5c1cc289396fd5641b109f2d0b8e9e22
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 70}
+  - name: LaserBeamer_Frame_7
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.13333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 13
+      height: 15
+    spriteID: ec79b31a402b14549a7cebdcbb90456a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: LaserBeamer_Frame_8
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 27
+      width: 13
+      height: 14
+    spriteID: bd75f9434044829439b4e776c7cadd1b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 27}
+  - name: LaserBeamer_Frame_9
+    originalName: 
+    pivot: {x: 0.54545456, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 49
+      width: 11
+      height: 14
+    spriteID: bd2ae764e82ccab4c9dd6dfe6d351c83
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 49}
+  - name: LaserBeamer_Frame_10
+    originalName: 
+    pivot: {x: 0.5555556, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 95
+      width: 9
+      height: 16
+    spriteID: 6da5ed95a8993424c80040adf8b1584b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 95}
+  - name: LaserBeamer_Frame_11
+    originalName: 
+    pivot: {x: 0.5, y: -0.30769232}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 25
+      y: 4
+      width: 14
+      height: 13
+    spriteID: a201d4a51122fac42a41222c66c3de14
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 25, y: 4}
+  - name: LaserBeamer_Frame_12
+    originalName: 
+    pivot: {x: 0.5, y: -0.23076925}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 25
+      y: 25
+      width: 14
+      height: 13
+    spriteID: e201ff39bef0ccb4196dc9035a3ee481
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 25, y: 25}
+  - name: LaserBeamer_Frame_13
+    originalName: 
+    pivot: {x: 0.6666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 69
+      y: 35
+      width: 6
+      height: 16
+    spriteID: 30c1a04a0c9131b469104a46ac5dec9a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 69, y: 35}
+  - name: LaserBeamer_Frame_14
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 89
+      width: 8
+      height: 15
+    spriteID: ec0aada67a0a74948aa8e825cf66d71b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 89}
+  - name: LaserBeamer_Frame_15
+    originalName: 
+    pivot: {x: 0.5, y: -0.30769232}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 25
+      y: 46
+      width: 14
+      height: 13
+    spriteID: 5614ad457bfd93b4ab2335449d2ba925
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 25, y: 46}
+  - name: LaserBeamer_Frame_16
+    originalName: 
+    pivot: {x: 0.5, y: -0.23076925}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 25
+      y: 67
+      width: 14
+      height: 13
+    spriteID: f214d3984f6a4a9469e3fa6adc59f852
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 25, y: 67}
+  - name: LaserBeamer_Frame_17
+    originalName: 
+    pivot: {x: 0.6666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 69
+      y: 59
+      width: 6
+      height: 15
+    spriteID: eec5e950fcd3f494e8c580ce3c29ed5a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 69, y: 59}
+  - name: LaserBeamer_Frame_18
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 46
+      width: 8
+      height: 16
+    spriteID: 89972789d1196a44bb6cb1a1d18bbe75
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 46}
+  - name: LaserBeamer_Frame_19
+    originalName: 
+    pivot: {x: 0.8333334, y: -0.30769232}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 25
+      y: 88
+      width: 12
+      height: 13
+    spriteID: 4c549a5c8ec8bc74b8e33b3ec928d55d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 25, y: 88}
+  - name: LaserBeamer_Frame_20
+    originalName: 
+    pivot: {x: 1.2307693, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 25
+      y: 109
+      width: 13
+      height: 12
+    spriteID: 6b00cb5139088794ead9a8e6f3154fe2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 25, y: 109}
+  - name: LaserBeamer_Frame_21
+    originalName: 
+    pivot: {x: 1.7142859, y: -0.54545456}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 4
+      width: 14
+      height: 11
+    spriteID: ed3efb2bf76bcab458061823373a4399
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 4}
+  - name: LaserBeamer_Frame_22
+    originalName: 
+    pivot: {x: 2.4, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 69
+      y: 4
+      width: 15
+      height: 8
+    spriteID: f82cff15cba923449b368b4a18d4f4c1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 69, y: 4}
+  - name: LaserBeamer_Frame_23
+    originalName: 
+    pivot: {x: 2.5625, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 4
+      width: 16
+      height: 7
+    spriteID: 0e9afe98ab1487349af2d7b3e305defa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 4}
+  - name: LaserBeamer_Frame_24
+    originalName: 
+    pivot: {x: 2.9333334, y: -0.14285715}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 69
+      y: 20
+      width: 15
+      height: 7
+    spriteID: d93b5ad89f342884e944f4be15432fa1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 69, y: 20}
+  - name: LaserBeamer_Frame_25
+    originalName: 
+    pivot: {x: 2.764706, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 19
+      width: 17
+      height: 4
+    spriteID: 261eb70ce72a1d44790c7df8a9b344a8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 19}
+  - name: LaserBeamer_Frame_26
+    originalName: 
+    pivot: {x: 2.8235295, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 31
+      width: 17
+      height: 4
+    spriteID: c64eecad14818154e8071b5588442c2a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 31}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -606115919
+    name: LaserBeamer
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: LaserBeamer_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 43
+        y: 8
+        width: 9
+        height: 16
+      spriteId: 4523b95064ee635419c48b88a4d1f5f9
+    - name: LaserBeamer_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 43
+        y: 8
+        width: 9
+        height: 15
+      spriteId: 058211927e0c17243a92494e7afc75c9
+    - name: LaserBeamer_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 46
+        y: 8
+        width: 3
+        height: 2
+      spriteId: 27ba3b2f77e1f8e4a9182e2841be7ae8
+    - name: LaserBeamer_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 46
+        y: 8
+        width: 3
+        height: 6
+      spriteId: f734967e5986cec4ea811d69de89244c
+    - name: LaserBeamer_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 46
+        y: 14
+        width: 3
+        height: 7
+      spriteId: 3f6df07d02a493b4a89409dc9e66a80d
+    - name: LaserBeamer_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 44
+        y: 13
+        width: 7
+        height: 7
+      spriteId: 3a206693060a3594e994f80d3dc2b2bc
+    - name: LaserBeamer_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 42
+        y: 12
+        width: 11
+        height: 11
+      spriteId: 5c1cc289396fd5641b109f2d0b8e9e22
+    - name: LaserBeamer_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 41
+        y: 10
+        width: 13
+        height: 15
+      spriteId: ec79b31a402b14549a7cebdcbb90456a
+    - name: LaserBeamer_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 41
+        y: 9
+        width: 13
+        height: 14
+      spriteId: bd75f9434044829439b4e776c7cadd1b
+    - name: LaserBeamer_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 42
+        y: 8
+        width: 11
+        height: 14
+      spriteId: bd2ae764e82ccab4c9dd6dfe6d351c83
+    - name: LaserBeamer_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 43
+        y: 8
+        width: 9
+        height: 16
+      spriteId: 6da5ed95a8993424c80040adf8b1584b
+    - name: LaserBeamer_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 41
+        y: 12
+        width: 14
+        height: 13
+      spriteId: a201d4a51122fac42a41222c66c3de14
+    - name: LaserBeamer_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 41
+        y: 11
+        width: 14
+        height: 13
+      spriteId: e201ff39bef0ccb4196dc9035a3ee481
+    - name: LaserBeamer_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 44
+        y: 8
+        width: 6
+        height: 16
+      spriteId: 30c1a04a0c9131b469104a46ac5dec9a
+    - name: LaserBeamer_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 44
+        y: 8
+        width: 8
+        height: 15
+      spriteId: ec0aada67a0a74948aa8e825cf66d71b
+    - name: LaserBeamer_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 41
+        y: 12
+        width: 14
+        height: 13
+      spriteId: 5614ad457bfd93b4ab2335449d2ba925
+    - name: LaserBeamer_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 41
+        y: 11
+        width: 14
+        height: 13
+      spriteId: f214d3984f6a4a9469e3fa6adc59f852
+    - name: LaserBeamer_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 44
+        y: 8
+        width: 6
+        height: 15
+      spriteId: eec5e950fcd3f494e8c580ce3c29ed5a
+    - name: LaserBeamer_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 44
+        y: 8
+        width: 8
+        height: 16
+      spriteId: 89972789d1196a44bb6cb1a1d18bbe75
+    - name: LaserBeamer_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 38
+        y: 12
+        width: 12
+        height: 13
+      spriteId: 4c549a5c8ec8bc74b8e33b3ec928d55d
+    - name: LaserBeamer_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 32
+        y: 14
+        width: 13
+        height: 12
+      spriteId: 6b00cb5139088794ead9a8e6f3154fe2
+    - name: LaserBeamer_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 24
+        y: 14
+        width: 14
+        height: 11
+      spriteId: ed3efb2bf76bcab458061823373a4399
+    - name: LaserBeamer_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 12
+        y: 8
+        width: 15
+        height: 8
+      spriteId: f82cff15cba923449b368b4a18d4f4c1
+    - name: LaserBeamer_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 7
+        y: 8
+        width: 16
+        height: 7
+      spriteId: 0e9afe98ab1487349af2d7b3e305defa
+    - name: LaserBeamer_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 4
+        y: 9
+        width: 15
+        height: 7
+      spriteId: d93b5ad89f342884e944f4be15432fa1
+    - name: LaserBeamer_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 1
+        y: 8
+        width: 17
+        height: 4
+      spriteId: 261eb70ce72a1d44790c7df8a9b344a8
+    - name: LaserBeamer_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 0
+        y: 8
+        width: 17
+        height: 4
+      spriteId: c64eecad14818154e8071b5588442c2a
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 64, y: 32}

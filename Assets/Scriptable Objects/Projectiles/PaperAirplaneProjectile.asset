@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d245f3060f81f3a4cb2db93b472739e2, type: 3}
+  m_Name: PaperAirplaneProjectile
+  m_EditorClassIdentifier: 
+  Speed: 3
+  Damage: 210
+  RotateToDirection: 1
+  TurnRate: 0
+  Ricochet: 0
+  PrefabOnHit: {fileID: 0}
+  PrefabOnHitChance: 0.2
+  FireClip: {fileID: 11400000, guid: 5ece2f37537bfa844a7a60ed4c4d5487, type: 2}
+  FireSoundChance: 1
+  Loop: 0
+  Sprite: {fileID: 21300000, guid: 9146e8f241aca0c43b548a99de0de136, type: 3}
+  CollisionSize: 0.45
+  Glow: 1
+  WaveAmplitude: 1
+  WaveFrequency: 2
+  HomingFactor: 0
+  HomingRange: 3
+  RandomDirection: 0
+  SpinClockwise: 1
+  SpinSpeed: 0

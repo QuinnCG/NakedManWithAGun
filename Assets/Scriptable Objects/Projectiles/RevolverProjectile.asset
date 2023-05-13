@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d245f3060f81f3a4cb2db93b472739e2, type: 3}
+  m_Name: RevolverProjectile
+  m_EditorClassIdentifier: 
+  Speed: 25
+  Damage: 50
+  RotateToDirection: 1
+  TurnRate: 0
+  Ricochet: 1
+  RicochetSpeedFactor: 1
+  RicochetSpread: 15
+  PrefabOnHit: {fileID: 0}
+  PrefabOnHitChance: 0.2
+  FireClip: {fileID: 11400000, guid: a4bfd396bf467944ab2f28f0a52094f9, type: 2}
+  Loop: 0
+  Sprite: {fileID: 21300000, guid: ea094dc73815b4b4c891f85da87b1e02, type: 3}
+  CollisionSize: 0.15
+  Glow: 4.5
+  WaveAmplitude: 0
+  WaveFrequency: 1
+  HomingFactor: 0
+  HomingRange: 3
+  RandomDirection: 0
+  SpinClockwise: 1
+  SpinSpeed: 0

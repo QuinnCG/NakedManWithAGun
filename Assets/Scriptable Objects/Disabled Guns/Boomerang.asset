@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f37b2a977d1eb7249ae28a879581f45b, type: 3}
+  m_Name: Boomerang
+  m_EditorClassIdentifier: 
+  Name: Boomerang
+  NameColor: {r: 0.8941177, g: 0.74509805, b: 0.43529415, a: 1}
+  FireRate: 0.2
+  ReloadDuration: 1.5
+  IsAutomatic: 0
+  MagazineSize: 2
+  ReserveAmmo: 14
+  Spread: 15
+  Count: 1
+  Sprite: {fileID: 21300000, guid: 1793dce8e50c65c44ac5b934cbe4be59, type: 3}
+  DroppedSprite: {fileID: 21300000, guid: e60715ac0f362c143b3db7a1f0905da1, type: 3}
+  ReloadSound: {fileID: 0}
+  ScreenShakeAmplitude: 0
+  KickbackOffset: 0.06
+  SpawnOffset: {x: 0.2, y: 0}
+  Projectile: {fileID: 11400000, guid: 29845ae3a7bd05844b460b5ceb82044f, type: 2}

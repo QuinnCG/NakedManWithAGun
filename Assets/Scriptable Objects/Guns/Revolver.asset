@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f37b2a977d1eb7249ae28a879581f45b, type: 3}
+  m_Name: Revolver
+  m_EditorClassIdentifier: 
+  Name: Revolver
+  NameColor: {r: 0.5019608, g: 0.5882353, b: 0.58431375, a: 1}
+  FireRate: 0.35
+  ReloadDuration: 1
+  IsAutomatic: 0
+  MagazineSize: 6
+  ReserveAmmo: 18
+  Spread: 0
+  Count: 1
+  Sprite: {fileID: 21300000, guid: 912b614d3ba7331459e837d8e59bec6c, type: 3}
+  DroppedSprite: {fileID: 21300000, guid: 30a460ee708544547b863c8b7e07c050, type: 3}
+  ReloadSound: {fileID: 11400000, guid: 07b4cbaa0a2ee6e4ea04893dacd16619, type: 2}
+  ScreenShakeAmplitude: 2
+  KickbackOffset: 0.186
+  SpawnOffset: {x: 0.5, y: 0.2}
+  Projectile: {fileID: 11400000, guid: f4e8f3c9f60f98241a21d9e67190cfdf, type: 2}

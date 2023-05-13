@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d820323fa7a58db498301da1e1ffb908, type: 3}
+  m_Name: PaintGunFire
+  m_EditorClassIdentifier: 
+  Clips:
+  - Clip: {fileID: 8300000, guid: 2ae9a5222a679cf44ad3a07cd27fbc93, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: a46f55fed3e96f64294deece07b9e175, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: dfde36ad37db3354d90288d9750feae5, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: 93631243ab17304428ffcb504e60f1b8, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: 70f1861d9a31f274c9966e0f5f3582ce, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: 4ed7802d459a98843918eeed9b579dae, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: d2b7c25f3ee20dd4497bbbf17716179e, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: 280f426f9dd324f44aa9af335d153dd6, type: 3}
+    Weight: 1
+  Volume: {x: 0.9, y: 1.1}
+  Pitch: {x: 0.9, y: 1.1}

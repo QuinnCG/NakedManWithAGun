@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d820323fa7a58db498301da1e1ffb908, type: 3}
+  m_Name: UziFire
+  m_EditorClassIdentifier: 
+  Clips:
+  - Clip: {fileID: 8300000, guid: 68be9821c75afba418bac88cbe762c0c, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: 21d099a449fe2074e81624ce8f33dc7a, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: d80134e26764c9f46a1b48713d13fac9, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: 166dc65d34e6d8844a132cea756c82d3, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: 4ffe655ac8660784cac29298a4d8a3c2, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: 57186b847b3e9b847a7d19958a5e09e6, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: bd7637c52a522324aa0906523bd6f889, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: f044376bfcd3fec47af3fca96404a63a, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: 54ee93625eca47d40911639832229221, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: 51a449c5823a28946a6e1c34a5cf0d70, type: 3}
+    Weight: 1
+  Volume: {x: 2, y: 2.2}
+  Pitch: {x: 0.9, y: 1.1}

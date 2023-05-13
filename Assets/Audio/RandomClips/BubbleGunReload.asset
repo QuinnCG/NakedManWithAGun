@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d820323fa7a58db498301da1e1ffb908, type: 3}
+  m_Name: BubbleGunReload
+  m_EditorClassIdentifier: 
+  Clips:
+  - Clip: {fileID: 8300000, guid: 576ddd239c5b0a54c8f19f71ec649ede, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: 3a6d8f1e7552eb74d9afa05b403d0b0e, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: 4afe79a7ea356de49b136e364ba1a4fd, type: 3}
+    Weight: 1
+  Volume: {x: 0.7, y: 0.9}
+  Pitch: {x: 0.9, y: 1.1}

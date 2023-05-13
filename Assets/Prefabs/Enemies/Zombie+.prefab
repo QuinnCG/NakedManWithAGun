@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2178212248419923914
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 132200701748484428, guid: 90c50e4a077a2454ebe972acaa7ac03d, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 132200701748484428, guid: 90c50e4a077a2454ebe972acaa7ac03d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 132200701748484428, guid: 90c50e4a077a2454ebe972acaa7ac03d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 132200701748484428, guid: 90c50e4a077a2454ebe972acaa7ac03d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 132200701748484428, guid: 90c50e4a077a2454ebe972acaa7ac03d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 132200701748484428, guid: 90c50e4a077a2454ebe972acaa7ac03d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 132200701748484428, guid: 90c50e4a077a2454ebe972acaa7ac03d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 132200701748484428, guid: 90c50e4a077a2454ebe972acaa7ac03d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 132200701748484428, guid: 90c50e4a077a2454ebe972acaa7ac03d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 132200701748484428, guid: 90c50e4a077a2454ebe972acaa7ac03d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 132200701748484428, guid: 90c50e4a077a2454ebe972acaa7ac03d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 936928811345337496, guid: 90c50e4a077a2454ebe972acaa7ac03d, type: 3}
+      propertyPath: FireRate
+      value: 0.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 936928811345337496, guid: 90c50e4a077a2454ebe972acaa7ac03d, type: 3}
+      propertyPath: MinDistanceToPlayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 936928811345337496, guid: 90c50e4a077a2454ebe972acaa7ac03d, type: 3}
+      propertyPath: <FireRate>k__BackingField
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 936928811345337496, guid: 90c50e4a077a2454ebe972acaa7ac03d, type: 3}
+      propertyPath: <Projectile>k__BackingField
+      value: 
+      objectReference: {fileID: 11400000, guid: df2d2ec77fe66944fa74747529894371, type: 2}
+    - target: {fileID: 3132870033204430252, guid: 90c50e4a077a2454ebe972acaa7ac03d, type: 3}
+      propertyPath: <Max>k__BackingField
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 8226550893633691020, guid: 90c50e4a077a2454ebe972acaa7ac03d, type: 3}
+      propertyPath: m_Name
+      value: Zombie+
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 90c50e4a077a2454ebe972acaa7ac03d, type: 3}

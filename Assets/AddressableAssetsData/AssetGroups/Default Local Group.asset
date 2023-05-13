@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d229102cecfacd34090d7aae9f797861
+  m_SerializeEntries:
+  - m_GUID: 99f726f71a6efec42a54fe8248fc0941
+    m_Address: Assets/Prefabs/Projectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a42bc0027bb073b4693759350ab42146
+    m_Address: Assets/Prefabs/DroppedGun.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa1f4173bc1a6f34a966dcf0a1d64756
+    m_Address: Assets/Prefabs/SpawnPortal.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 91e63431bf609c04ca3d5ebda119ed81
+    m_Address: Assets/Scriptable Objects/Guns
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - guns
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ca6fa60f627531419ab5439001f2258
+    m_Address: Assets/Prefabs/Chest.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e38eca370761a9148a02306bf5cbfbb3
+    m_Address: Assets/Prefabs/HealthPotion.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c6df6ec6fc2a0744aa95b821f4a6e1e
+    m_Address: Assets/Audio/RandomClips/EnemyHurt.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 624e9807f72473444b15a504b0ac66cb
+    m_Address: Assets/Audio/RandomClips/EnemySpawn.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c9705f4c39e70324393cb4846aee1424
+    m_Address: Assets/Audio/RandomClips/PortalOpen.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b30c3d6f43b163438f4b270404c21de
+    m_Address: Assets/Audio/SFXMixer.mixer
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e97c50684179bc46acd7c6a594b362c
+    m_Address: Assets/Audio/MusicMixer.mixer
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 36307c42a6ae3344091f00bb3f85b31c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e7b22362ac525ca42be8fa0267078558, type: 2}
+    - {fileID: 11400000, guid: 35fd2c64191912240a8e0e1f5e024ca6, type: 2}

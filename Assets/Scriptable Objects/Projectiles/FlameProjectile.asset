@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d245f3060f81f3a4cb2db93b472739e2, type: 3}
+  m_Name: FlameProjectile
+  m_EditorClassIdentifier: 
+  Speed: 4.5
+  Damage: 7
+  RotateToDirection: 0
+  TurnRate: 0
+  Ricochet: 0
+  RicochetSpeedFactor: 1
+  RicochetSpread: 15
+  PrefabOnHit: {fileID: 0}
+  PrefabOnHitChance: 0.2
+  FireClip: {fileID: 11400000, guid: 7f1c9eda7c2d2b54195fcd0f39c9a162, type: 2}
+  Loop: 1
+  Sprite: {fileID: 21300000, guid: f80c3064a451ebd41a441e73842e135a, type: 3}
+  CollisionSize: 0.25
+  Glow: 3.2
+  WaveAmplitude: 2
+  WaveFrequency: 10
+  HomingFactor: 0
+  HomingRange: 3
+  RandomDirection: 1
+  SpinClockwise: 1
+  SpinSpeed: 1440

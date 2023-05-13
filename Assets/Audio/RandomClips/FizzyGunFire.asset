@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d820323fa7a58db498301da1e1ffb908, type: 3}
+  m_Name: FizzyGunFire
+  m_EditorClassIdentifier: 
+  Clips:
+  - Clip: {fileID: 8300000, guid: c40fdedfdaea4ea4995bd03a408b3b0a, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: 601301816c330b14d96c09de50cc8d66, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: ac6056434f641f140a9c5bad6ee98d6a, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: 7aa1339d1460bad47b95ff2aa3dab1eb, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: f876c8d2fc9fa3248b73cfc821778da4, type: 3}
+    Weight: 1
+  Volume: {x: 0.8, y: 1.1}
+  Pitch: {x: 0.9, y: 1.1}

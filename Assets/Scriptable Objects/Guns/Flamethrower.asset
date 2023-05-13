@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f37b2a977d1eb7249ae28a879581f45b, type: 3}
+  m_Name: Flamethrower
+  m_EditorClassIdentifier: 
+  Name: Flame Thrower
+  NameColor: {r: 0.8117648, g: 0.34117648, b: 0.23529413, a: 1}
+  FireRate: 0.02
+  ReloadDuration: 1.5
+  IsAutomatic: 1
+  MagazineSize: 100
+  ReserveAmmo: 400
+  Spread: 80
+  Count: 1
+  Sprite: {fileID: 21300000, guid: fa1c00e5302de2340ac4e976fbce2531, type: 3}
+  DroppedSprite: {fileID: 21300000, guid: e86651f6f1f09d948954a43d557f938c, type: 3}
+  ReloadSound: {fileID: 11400000, guid: 8e0e417a361c91d409f4a84e33604e1c, type: 2}
+  ScreenShakeAmplitude: 0.02
+  KickbackOffset: 0.025
+  SpawnOffset: {x: 0.72, y: -0.18}
+  Projectile: {fileID: 11400000, guid: 6f60be6ecc744474d87b8dc3d1125b47, type: 2}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f37b2a977d1eb7249ae28a879581f45b, type: 3}
+  m_Name: FizzyGun
+  m_EditorClassIdentifier: 
+  Name: Fizzy Gun
+  NameColor: {r: 0.7137255, g: 0.29411766, b: 0.20000002, a: 1}
+  FireRate: 0.01
+  ReloadDuration: 1
+  IsAutomatic: 0
+  MagazineSize: 12
+  ReserveAmmo: 12
+  Spread: 10
+  Count: 1
+  Sprite: {fileID: 21300000, guid: c1cb7323b86dc4341aca9279fbf4f3a9, type: 3}
+  DroppedSprite: {fileID: 21300000, guid: 9a8b5717546546248b3e3a0a06689f45, type: 3}
+  ReloadSound: {fileID: 11400000, guid: 9b2316d2ff8aedb4381db493cb29caae, type: 2}
+  ScreenShakeAmplitude: 1.5
+  KickbackOffset: 0.1
+  SpawnOffset: {x: 0.2, y: 0.05}
+  Projectile: {fileID: 11400000, guid: a5219d0c976776d499793377c267571e, type: 2}

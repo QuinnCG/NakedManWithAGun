@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d820323fa7a58db498301da1e1ffb908, type: 3}
+  m_Name: EnemyHurt
+  m_EditorClassIdentifier: 
+  Clips:
+  - Clip: {fileID: 8300000, guid: 6e6947d467fa5344f91c6bbe7a8ff4b9, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: e34a82d90ce48714faea822733ca66b2, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: fff3bd4f04ab6b042aa3a15a239635f2, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: 930eb3e910d8cf94ea5940a99251f2da, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: a5ac38c9ec7989d4ca457109a383877c, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: 5bdb99beb514cfe49b36335074cc243f, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: e45ac7590c8ac9d4caade9fa29fbaf03, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: 22a52274b690142418bbe6ea2c3eb8f2, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: 1e1b84dd39e6e6c439cde3314327a219, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: 05000c754ba05de4fa6f80f2749209e3, type: 3}
+    Weight: 1
+  Volume: {x: 0.2, y: 0.3}
+  Pitch: {x: 0.9, y: 1.1}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d820323fa7a58db498301da1e1ffb908, type: 3}
+  m_Name: CloseDoor
+  m_EditorClassIdentifier: 
+  Clips:
+  - Clip: {fileID: 8300000, guid: 7c1b0731ed1d1934c99296d53148464d, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: 6b3d6e9afd9c65c43b7678c41c5b5f0c, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: 47acfb39f68cbed4a84423aa31ded096, type: 3}
+    Weight: 1
+  Volume: {x: 0.9, y: 1.1}
+  Pitch: {x: 0.9, y: 1.1}

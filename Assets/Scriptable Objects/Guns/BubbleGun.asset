@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f37b2a977d1eb7249ae28a879581f45b, type: 3}
+  m_Name: BubbleGun
+  m_EditorClassIdentifier: 
+  Name: Bubble Blower
+  NameColor: {r: 0.30980393, g: 0.56078434, b: 0.7294118, a: 1}
+  FireRate: 0.15
+  ReloadDuration: 0.5
+  IsAutomatic: 1
+  MagazineSize: 8
+  ReserveAmmo: 16
+  Spread: 5
+  Count: 1
+  Sprite: {fileID: 21300000, guid: 693fb6c4cdbcb3144ba4f2e663a3207f, type: 3}
+  DroppedSprite: {fileID: 21300000, guid: 7cbccd079a706c94a97da74f396fb7f1, type: 3}
+  ReloadSound: {fileID: 11400000, guid: 32a49d6d5268c84499b9cd21ac52040c, type: 2}
+  ScreenShakeAmplitude: 0
+  KickbackOffset: 0
+  SpawnOffset: {x: 0.27, y: 0.09}
+  Projectile: {fileID: 11400000, guid: da3aca7484c20f746a0ed43e9403d7a0, type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d820323fa7a58db498301da1e1ffb908, type: 3}
+  m_Name: PaperAirplaneFire
+  m_EditorClassIdentifier: 
+  Clips:
+  - Clip: {fileID: 8300000, guid: b13f9789e594f7047b70c4b7d873168e, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: 8145312a017b3084b9e041e0bf41c505, type: 3}
+    Weight: 1
+  - Clip: {fileID: 8300000, guid: db0a9866c7e34614e90653aca4d37ce2, type: 3}
+    Weight: 1
+  Volume: {x: 0.9, y: 1.1}
+  Pitch: {x: 0.9, y: 1.1}

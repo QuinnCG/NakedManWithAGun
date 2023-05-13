@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f37b2a977d1eb7249ae28a879581f45b, type: 3}
+  m_Name: ShotgunCannon
+  m_EditorClassIdentifier: 
+  Name: Shotgun Cannon
+  NameColor: {r: 0.454902, g: 0.14117648, b: 0.21960786, a: 1}
+  FireRate: 0.6
+  ReloadDuration: 2
+  IsAutomatic: 0
+  MagazineSize: 9
+  ReserveAmmo: 36
+  Spread: 15
+  Count: 3
+  Sprite: {fileID: 21300000, guid: 425b694f28324df429107507cca8b822, type: 3}
+  DroppedSprite: {fileID: 21300000, guid: efe818da634a47c44ac1f78f94b365a8, type: 3}
+  ReloadSound: {fileID: 11400000, guid: 86e888b8fe3f591499126bdff4171ee7, type: 2}
+  ScreenShakeAmplitude: 1.5
+  KickbackOffset: 0.2
+  SpawnOffset: {x: 0.5, y: 0.06}
+  Projectile: {fileID: 11400000, guid: 97d63e7e6e6bfa940a8100379a208dc7, type: 2}

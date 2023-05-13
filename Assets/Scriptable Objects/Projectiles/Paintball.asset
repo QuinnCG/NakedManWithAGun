@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d245f3060f81f3a4cb2db93b472739e2, type: 3}
+  m_Name: Paintball
+  m_EditorClassIdentifier: 
+  Speed: 10
+  Damage: 30
+  RotateToDirection: 1
+  TurnRate: 0
+  PrefabOnHit: {fileID: 7382682773093047863, guid: 14ff0b5e25c2f844a9475b96de848008, type: 3}
+  PrefabOnHitChance: 1
+  FireClip: {fileID: 11400000, guid: b63d58dad5e420c4abc144be094ac168, type: 2}
+  Loop: 0
+  Sprite: {fileID: 21300000, guid: 84ef31b7b760d154bb333d2f4be7bc3e, type: 3}
+  CollisionSize: 0.2
+  Glow: 4
+  WaveAmplitude: 0
+  WaveFrequency: 1
+  HomingFactor: 0
+  HomingRange: 3
+  RandomDirection: 0
+  SpinClockwise: 1
+  SpinSpeed: 0

@@ -1,0 +1,673 @@
+fileFormatVersion: 2
+guid: 81ee1741ea2f40140b35180843841d7b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 16
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 1
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 1
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638185535619363661
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: SpawnPortal_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 230
+      y: 4
+      width: 13
+      height: 1
+    spriteID: 067fc0145b7e52543b7842d4d0d5356f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 230, y: 4}
+  - name: SpawnPortal_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 222
+      y: 45
+      width: 19
+      height: 1
+    spriteID: 15bebc0f842556b4bbe47770d5046a00
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 222, y: 45}
+  - name: SpawnPortal_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 222
+      y: 34
+      width: 23
+      height: 3
+    spriteID: ec6ef8305ac7a4f408e02317b782c601
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 222, y: 34}
+  - name: SpawnPortal_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30
+      y: 62
+      width: 32
+      height: 10
+    spriteID: 8f36dc8460e7add43abd9d247eebccfc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 62}
+  - name: SpawnPortal_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 174
+      y: 34
+      width: 40
+      height: 13
+    spriteID: 48c4d690ad986fe4cb9231b6aa292e4d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 174, y: 34}
+  - name: SpawnPortal_Frame_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 44
+      height: 22
+    spriteID: e4b5ad46e2a0f84428db97f6d4a5eca6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: SpawnPortal_Frame_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 98
+      y: 4
+      width: 36
+      height: 20
+    spriteID: 553f1e7c929060841ba9d70b2099bafc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 98, y: 4}
+  - name: SpawnPortal_Frame_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 34
+      width: 34
+      height: 18
+    spriteID: 173f9e7dabd1f82469d0cdac5969cc5d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 48, y: 34}
+  - name: SpawnPortal_Frame_14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 142
+      y: 4
+      width: 36
+      height: 20
+    spriteID: fad22291784075e43bab28fa1c720982
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 142, y: 4}
+  - name: SpawnPortal_Frame_15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 4
+      width: 34
+      height: 22
+    spriteID: 38bcdceda6545cc4883b7c2fc403efde
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 56, y: 4}
+  - name: SpawnPortal_Frame_16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 62
+      width: 18
+      height: 26
+    spriteID: 9c401f3cd622b5f47a482b2edd8443af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 62}
+  - name: SpawnPortal_Frame_17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 96
+      width: 12
+      height: 38
+    spriteID: a467da4db6040f74eafaca3b31b2353a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 96}
+  - name: SpawnPortal_Frame_18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 142
+      width: 4
+      height: 46
+    spriteID: 51e1093e80c4b7d4f9e916c308547807
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 142}
+  - name: SpawnPortal_Frame_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 142
+      width: 1
+      height: 60
+    spriteID: 187740071f46d1a44b8d735069f5928f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 16, y: 142}
+  - name: SpawnPortal_Frame_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 34
+      width: 34
+      height: 18
+    spriteID: 81bce15f73d2e014abc9eb2c030c9910
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: 34}
+  - name: SpawnPortal_Frame_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 186
+      y: 4
+      width: 36
+      height: 20
+    spriteID: 13123e691ea960a46982cdf0a72c7f3c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 4}
+  - name: SpawnPortal_Frame_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 34
+      width: 34
+      height: 18
+    spriteID: c485d44956eb37d40b120ac915237627
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 34}
+  - name: SpawnPortal_Frame_12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 34
+      width: 36
+      height: 20
+    spriteID: 3a58c67daba5dfc41a9918713131aef8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 34}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 665791639
+    name: SpawnPortal
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: SpawnPortal_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 57
+        y: 63
+        width: 13
+        height: 1
+      spriteId: 067fc0145b7e52543b7842d4d0d5356f
+    - name: SpawnPortal_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 54
+        y: 63
+        width: 19
+        height: 1
+      spriteId: 15bebc0f842556b4bbe47770d5046a00
+    - name: SpawnPortal_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 52
+        y: 62
+        width: 23
+        height: 3
+      spriteId: ec6ef8305ac7a4f408e02317b782c601
+    - name: SpawnPortal_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 48
+        y: 59
+        width: 32
+        height: 10
+      spriteId: 8f36dc8460e7add43abd9d247eebccfc
+    - name: SpawnPortal_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 44
+        y: 57
+        width: 40
+        height: 13
+      spriteId: 48c4d690ad986fe4cb9231b6aa292e4d
+    - name: SpawnPortal_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 42
+        y: 53
+        width: 44
+        height: 22
+      spriteId: e4b5ad46e2a0f84428db97f6d4a5eca6
+    - name: SpawnPortal_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 46
+        y: 54
+        width: 36
+        height: 20
+      spriteId: 553f1e7c929060841ba9d70b2099bafc
+    - name: SpawnPortal_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 47
+        y: 55
+        width: 34
+        height: 18
+      spriteId: 173f9e7dabd1f82469d0cdac5969cc5d
+    - name: SpawnPortal_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 46
+        y: 54
+        width: 36
+        height: 20
+      spriteId: fad22291784075e43bab28fa1c720982
+    - name: SpawnPortal_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 47
+        y: 53
+        width: 34
+        height: 22
+      spriteId: 38bcdceda6545cc4883b7c2fc403efde
+    - name: SpawnPortal_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 55
+        y: 51
+        width: 18
+        height: 26
+      spriteId: 9c401f3cd622b5f47a482b2edd8443af
+    - name: SpawnPortal_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 58
+        y: 45
+        width: 12
+        height: 38
+      spriteId: a467da4db6040f74eafaca3b31b2353a
+    - name: SpawnPortal_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 62
+        y: 41
+        width: 4
+        height: 46
+      spriteId: 51e1093e80c4b7d4f9e916c308547807
+    - name: SpawnPortal_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 64
+        y: 34
+        width: 1
+        height: 60
+      spriteId: 187740071f46d1a44b8d735069f5928f
+    - name: SpawnPortal_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 47
+        y: 55
+        width: 34
+        height: 18
+      spriteId: 81bce15f73d2e014abc9eb2c030c9910
+    - name: SpawnPortal_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 46
+        y: 54
+        width: 36
+        height: 20
+      spriteId: 13123e691ea960a46982cdf0a72c7f3c
+    - name: SpawnPortal_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 47
+        y: 55
+        width: 34
+        height: 18
+      spriteId: c485d44956eb37d40b120ac915237627
+    - name: SpawnPortal_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 46
+        y: 54
+        width: 36
+        height: 20
+      spriteId: 3a58c67daba5dfc41a9918713131aef8
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 128, y: 128}

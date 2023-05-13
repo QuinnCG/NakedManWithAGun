@@ -1,0 +1,729 @@
+fileFormatVersion: 2
+guid: 77e85329d94b84643bf746d94979f359
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 16
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 1
+    defaultPivotAlignment: 9
+    customPivotPosition: {x: 0.4615385, y: 0}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 1
+    defaultPivotAlignment: 9
+    customPivotPosition: {x: 0.4615385, y: 0}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638185485215435560
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: DarkKnight
+    originalName: 
+    pivot: {x: 0.4615385, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 205
+      y: 4
+      width: 13
+      height: 18
+    spriteID: 477e21ad7e739094bb2a7a0b60cddb19
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 205, y: 4}
+  - name: DarkKnight_Frame_1
+    originalName: 
+    pivot: {x: 0.4615385, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 167
+      y: 30
+      width: 13
+      height: 17
+    spriteID: 635a23f612fe67a4588d90d2d344fbde
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 167, y: 30}
+  - name: DarkKnight_Frame_2
+    originalName: 
+    pivot: {x: 0.4615385, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 66
+      y: 80
+      width: 5
+      height: 5
+    spriteID: 34bfdd753292b6e4c86c6f451f3db955
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 66, y: 80}
+  - name: DarkKnight_Frame_3
+    originalName: 
+    pivot: {x: 0.4615385, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 81
+      y: 61
+      width: 7
+      height: 9
+    spriteID: 83b9c6081e0a78744b21ab1a3192edd8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 81, y: 61}
+  - name: DarkKnight_Frame_4
+    originalName: 
+    pivot: {x: 0.4615385, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 66
+      y: 61
+      width: 7
+      height: 11
+    spriteID: b8a6b8c847c5e3545bfb9e008192c1a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 66, y: 61}
+  - name: DarkKnight_Frame_5
+    originalName: 
+    pivot: {x: 0.4615385, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 61
+      width: 9
+      height: 13
+    spriteID: 127fa4908ff803e44990a5cd8b9c6eb0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 61}
+  - name: DarkKnight_Frame_6
+    originalName: 
+    pivot: {x: 0.4615385, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 222
+      y: 30
+      width: 9
+      height: 15
+    spriteID: ebcbbf3fe8ee8c5408f62ef94fc93301
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 222, y: 30}
+  - name: DarkKnight_Frame_7
+    originalName: 
+    pivot: {x: 0.4615385, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 4
+      width: 13
+      height: 18
+    spriteID: 5968b142b6a5c214f96f32ef9f07934b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 226, y: 4}
+  - name: DarkKnight_Frame_8
+    originalName: 
+    pivot: {x: 0.4615385, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 123
+      y: 30
+      width: 14
+      height: 20
+    spriteID: bda2d3b415342d04ea3ff8ac9c485948
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 123, y: 30}
+  - name: DarkKnight_Frame_9
+    originalName: 
+    pivot: {x: 0.4615385, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 188
+      y: 30
+      width: 9
+      height: 18
+    spriteID: 74a4cd31a0acebb4084e50a9f81dbb77
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 188, y: 30}
+  - name: DarkKnight_Frame_10
+    originalName: 
+    pivot: {x: 0.4615385, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 61
+      width: 7
+      height: 17
+    spriteID: 7330a90c6158a2642bfcb234acf86f9a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 61}
+  - name: DarkKnight_Frame_11
+    originalName: 
+    pivot: {x: 0.4615385, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 30
+      width: 14
+      height: 20
+    spriteID: 7cb4eaa368b173247890f763027341a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 30}
+  - name: DarkKnight_Frame_12
+    originalName: 
+    pivot: {x: 0.4615385, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 239
+      y: 30
+      width: 7
+      height: 19
+    spriteID: b6c719babdc0f964998add08b46287b5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 239, y: 30}
+  - name: DarkKnight_Frame_13
+    originalName: 
+    pivot: {x: 0.4615385, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 205
+      y: 30
+      width: 9
+      height: 18
+    spriteID: e05f7b758521cfc4999443fd9c74708d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 205, y: 30}
+  - name: DarkKnight_Frame_14
+    originalName: 
+    pivot: {x: 0.4615385, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 61
+      width: 22
+      height: 24
+    spriteID: 6f9ab23658018cf4f8a82d4ec68c53fe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 61}
+  - name: DarkKnight_Frame_15
+    originalName: 
+    pivot: {x: 0.4615385, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 30
+      width: 40
+      height: 23
+    spriteID: 05742f46d3de2b64f9e91550759eca02
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 30}
+  - name: DarkKnight_Frame_16
+    originalName: 
+    pivot: {x: 0.4615385, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 53
+      height: 18
+    spriteID: 5f1d2a0a96c8846439edf93853f7002b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: DarkKnight_Frame_17
+    originalName: 
+    pivot: {x: 0.4615385, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 4
+      width: 61
+      height: 12
+    spriteID: a2b274663e8d8d4469ad388fc29473ac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 4}
+  - name: DarkKnight_Frame_18
+    originalName: 
+    pivot: {x: 0.4615385, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 30
+      width: 63
+      height: 8
+    spriteID: 1a324144b06d3a441a72923e585aa884
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 30}
+  - name: DarkKnight_Frame_19
+    originalName: 
+    pivot: {x: 0.4615385, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 134
+      y: 4
+      width: 63
+      height: 9
+    spriteID: 84d9fae6adeeb254c9ec24aac423edd2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 4}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1922782025
+    name: DarkKnight
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: DarkKnight_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 26
+        y: 8
+        width: 13
+        height: 18
+      spriteId: 477e21ad7e739094bb2a7a0b60cddb19
+    - name: DarkKnight_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 26
+        y: 8
+        width: 13
+        height: 17
+      spriteId: 635a23f612fe67a4588d90d2d344fbde
+    - name: DarkKnight_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 30
+        y: 8
+        width: 5
+        height: 5
+      spriteId: 34bfdd753292b6e4c86c6f451f3db955
+    - name: DarkKnight_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 29
+        y: 8
+        width: 7
+        height: 9
+      spriteId: 83b9c6081e0a78744b21ab1a3192edd8
+    - name: DarkKnight_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 29
+        y: 8
+        width: 7
+        height: 11
+      spriteId: b8a6b8c847c5e3545bfb9e008192c1a7
+    - name: DarkKnight_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 28
+        y: 8
+        width: 9
+        height: 13
+      spriteId: 127fa4908ff803e44990a5cd8b9c6eb0
+    - name: DarkKnight_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 28
+        y: 8
+        width: 9
+        height: 15
+      spriteId: ebcbbf3fe8ee8c5408f62ef94fc93301
+    - name: DarkKnight_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 26
+        y: 8
+        width: 13
+        height: 18
+      spriteId: 5968b142b6a5c214f96f32ef9f07934b
+    - name: DarkKnight_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 26
+        y: 8
+        width: 14
+        height: 20
+      spriteId: bda2d3b415342d04ea3ff8ac9c485948
+    - name: DarkKnight_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 28
+        y: 8
+        width: 9
+        height: 18
+      spriteId: 74a4cd31a0acebb4084e50a9f81dbb77
+    - name: DarkKnight_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 29
+        y: 8
+        width: 7
+        height: 17
+      spriteId: 7330a90c6158a2642bfcb234acf86f9a
+    - name: DarkKnight_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 26
+        y: 8
+        width: 14
+        height: 20
+      spriteId: 7cb4eaa368b173247890f763027341a4
+    - name: DarkKnight_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 29
+        y: 8
+        width: 7
+        height: 19
+      spriteId: b6c719babdc0f964998add08b46287b5
+    - name: DarkKnight_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 28
+        y: 8
+        width: 9
+        height: 18
+      spriteId: e05f7b758521cfc4999443fd9c74708d
+    - name: DarkKnight_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 22
+        y: 8
+        width: 22
+        height: 24
+      spriteId: 6f9ab23658018cf4f8a82d4ec68c53fe
+    - name: DarkKnight_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 13
+        y: 8
+        width: 40
+        height: 23
+      spriteId: 05742f46d3de2b64f9e91550759eca02
+    - name: DarkKnight_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 6
+        y: 7
+        width: 53
+        height: 18
+      spriteId: 5f1d2a0a96c8846439edf93853f7002b
+    - name: DarkKnight_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 2
+        y: 5
+        width: 61
+        height: 12
+      spriteId: a2b274663e8d8d4469ad388fc29473ac
+    - name: DarkKnight_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 1
+        y: 4
+        width: 63
+        height: 8
+      spriteId: 1a324144b06d3a441a72923e585aa884
+    - name: DarkKnight_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 1
+        y: 3
+        width: 63
+        height: 9
+      spriteId: 84d9fae6adeeb254c9ec24aac423edd2
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 64, y: 32}
